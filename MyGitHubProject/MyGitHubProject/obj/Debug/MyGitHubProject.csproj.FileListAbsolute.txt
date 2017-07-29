@@ -1,1 +1,9 @@
 C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\bin\Debug\MyGitHubProject.exe.config
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\bin\Debug\MyGitHubProject.exe
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\bin\Debug\MyGitHubProject.pdb
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.Form1.resources
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.Properties.Resources.resources
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.exe
+C:\Users\Student\Desktop\helloworld\MyGitHubProject\MyGitHubProject\obj\Debug\MyGitHubProject.pdb
